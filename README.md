@@ -10,14 +10,19 @@ Details privided in the floder "Judgement&Auxiliary".
 
 ## Benchmark
 [1]https://huggingface.co/JailbreakV-28K
+
 [2]https://github.com/llm-attacks/llm-attacks
+
 [3]https://github.com/ThuCCSLab/FigStep
+
 [4]https://github.com/isXinLiu/MM-SafetyBench
 
 ## API Usage
 [1]https://cookbook.openai.com/examples/gpt4o/introduction_to_gpt4o
+
 [2]https://platform.openai.com/docs/guides/text-generation/chat-completions-api
 
 ## App
 [1] [AppStore](https://apps.apple.com/tw/app/chatgpt/id6448311069)
+
 [2] [Google Play](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
